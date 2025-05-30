@@ -118,6 +118,11 @@ EMAIL_PASS=
 - [GitHub](https://github.com/Zatakiya2510)
 - [LinkedIn](https://www.linkedin.com/in/zatakiya-abhishek-426087252/)
 
+## Live Demo 
+## Frontend
+- [Vercel](https://tour-frontend-two.vercel.app/home)
+## Backend
+- [Render](https://tour-backend-i1a8.onrender.com)
 
 
 
